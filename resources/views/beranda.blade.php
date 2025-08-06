@@ -29,7 +29,7 @@
     <div id="katalog" class="hero bg-primary min-h-screen flex flex-col items-center">
         <div class="bg-white px-3 py-2 mt-5 rounded-xl">
             <h1 class="text-xl text-primary font-bold text-center">
-                Katalog Perpustakaan
+                Katalog Buku
             </h1>
         </div>
         <div class="py-5 px-5">
