@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="navbar shadow-sm bg-base-100">
+    <div class="navbar shadow-sm bg-base-100 sticky top-0 z-50">
         <div class="flex-1">
             <!-- Logo -->
             <a href="{{ url('/beranda') }}" class="btn btn-ghost text-xl text-primary font-bold">
